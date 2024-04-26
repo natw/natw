@@ -1,12 +1,12 @@
 ### Nat Williams
 
 ```
-Infrastructure Architect at https://www.amount.com/
+computer janitor at https://kin.com
 
 Professional Interests:          Personal Interests:
-- golang                         - wood
+- golang                         - painting tiny shooty dudes
 - k8s                            - guitars
-- automation                     - books with spaceships or dragons on the cover
+- aws                            - books with spaceships or dragons on the cover
 
-nat@cyber.baby
+nat.williams@gmail.com
 ```
